@@ -1,0 +1,5 @@
+.env
+
+# You can ignore __pycache__ and other temp files
+__pycache__/
+*.pyc
